@@ -1,0 +1,7 @@
+# proxy.txt.example
+# Copy to `proxy.txt` and put one proxy per line.
+# Both http:// and https:// are supported.
+# Auth proxies: http://user:pass@host:port
+
+# http://user:password@127.0.0.1:8080
+# https://1.2.3.4:443

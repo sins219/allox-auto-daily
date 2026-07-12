@@ -1,0 +1,7 @@
+# accounts.txt.example
+# Copy to `accounts.txt` and put one Ethereum private key per line.
+# Lines starting with # and blank lines are ignored.
+# The 0x prefix is optional.
+
+# 0x0123456789abcdef0783456789abcdef0123456789abcdef0123456789abcdef
+# 0xabcdef0123456789abcdef0123456099abcdef0123456789abcdef0123456789ab
