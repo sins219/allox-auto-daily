@@ -95,8 +95,8 @@ allox-auto-js/
 **With git (recommended):**
 
 ```bash
-git clone https://github.com/YOUR_USERNAME/allox-auto-js.git
-cd allox-auto-js
+git clone https://github.com/sins219/allox-auto-daily.git
+cd allox-auto-daily
 ```
 
 **Or download the ZIP:**
